@@ -12,10 +12,10 @@ const Maincontent = () =>{
             </div>
 
             <div className="col-md-7   row writing">
-                <h1 className="text1 col-md-9" >
+                <h1 className="text1 col-md-11" >
                     I have bad news for you
                 </h1>
-                <p className="text2 col-md-5" >
+                <p className="text2 col-md-6" >
                     The page you are looking for might be
                     removed or is temporarily unavailable
                 </p>
