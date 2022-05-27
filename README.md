@@ -38,21 +38,14 @@
 
 ![screenshot]https://drive.google.com/file/d/1qI4_HvpMHYLojWoyGRKtMdzVpXLJ_H_y/view?usp=sharing
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-you can 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+The demo of this project can be seen on Netlify. It was a wonderful expreience creating this project as i learnt alot about the responsiveness of a webpage
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [Bootstrap]
 
 ## Features
 
@@ -71,6 +64,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- 
+- GitHub [@samoayoola](https://{github.com/samoayoola})
+- 
