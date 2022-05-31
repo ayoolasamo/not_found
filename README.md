@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{404 Not Found}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://6290e96578baf500584ef76d--deviochallengenotfoundsamo.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/nMuraRYrvl7ZAf4V8Fgv">
       Solution
     </a>
     <span> | </span>
@@ -27,7 +27,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -38,7 +38,7 @@
 
 ![screenshot]https://drive.google.com/file/d/1qI4_HvpMHYLojWoyGRKtMdzVpXLJ_H_y/view?usp=sharing
 
-The demo of this project can be seen on Netlify. It was a wonderful expreience creating this project as i learnt alot about the responsiveness of a webpage
+The demo of this project can be seen on Netlify. It was a wonderful expreience creating this project as I learnt alot about the responsiveness of a webpage.
 
 ### Built With
 
