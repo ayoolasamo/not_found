@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://drive.google.com/file/d/1qI4_HvpMHYLojWoyGRKtMdzVpXLJ_H_y/view?usp=sharing)
+![screenshot](https://github.com/ayoolasamo/not_found/blob/master/Capture.PNG)
 
 The demo of this project can be seen on Netlify. It was a wonderful expreience creating this project as I learnt alot about the responsiveness of a webpage.
 
